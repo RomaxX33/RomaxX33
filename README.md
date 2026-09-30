@@ -1,16 +1,32 @@
-## Hi there 👋
+# Romualdo Pérez Gómez
 
-<!--
-**RomaxX33/RomaxX33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT professional focused on Cloud, DevOps, Automation, and infrastructure.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Higher Technician in Network Computer Systems Administration (ASIR).
+
+My technical background combines Linux and Windows system administration,
+networking, databases, cybersecurity, scripting, and containerization.
+
+I mainly work with Python, Bash, SQL, Docker, and Docker Compose.
+
+## Featured Projects
+
+- Employee LAN Platform — ASIR Final Project
+- Infrastructure & Automation Labs
+
+## Technical Focus
+
+- Systems Administration
+- Automation
+- Containers
+- Databases
+- Networking
+- Cybersecurity
+- Cloud & DevOps
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/romualdoperez/
+- Email: roma.perezjob@gmail.com
